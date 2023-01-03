@@ -1,6 +1,6 @@
 ## Opa! Eu sou o tal do LilArt
 - 🔭 Criando novas experiências
-- 🌱 Estudando React
+- 🌱 JavaScript | TypeScript | React | ReactNative | NodeJS | NestJS
  <div style="display: flex;flex-direction:row">
   <a href="https://github.com/LilArtDev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LilArtDev&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
