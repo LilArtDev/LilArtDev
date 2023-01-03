@@ -1,4 +1,4 @@
-## Opa! Eu sou o tal do LilArt
+## They call me LilArt
 - 🔭 Criando novas experiências
 - 🌱 JavaScript | TypeScript | React | ReactNative | NodeJS | NestJS
  <div style="display: flex;flex-direction:row">
