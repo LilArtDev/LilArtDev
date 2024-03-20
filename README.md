@@ -34,7 +34,7 @@
     <details open>
       <summary><h3>Statistics</h3></summary>
       <p>
-        <a href="https://github.com/1999AZZAR/">
+        <a href="https://github.com/LilArtDev/">
           <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=LilArtDev&show_icons=true&theme=gruvbox&hide_border=true">
           <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=LilArtDev&theme=gruvbox&hide_border=true">
         </a>
@@ -42,11 +42,5 @@
     </details>
   </div>
 </details>
-
-<div align="center">
-  <a href="https://1999azzar.github.io/LilArtDev/">
-    <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg" alt="snake">
-  </a>
-</div>
 
 
