@@ -21,13 +21,13 @@
       <summary><h3>Languages</h3></summary>
       <p>
         <a href="https://github.com/1999AZZAR/">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1999AZZAR&langs_count=6&theme=gruvbox&layout=compact&hide_border=true" alt="1999AZZAR :: overall Top Langs">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LilArtDev&langs_count=6&theme=gruvbox&layout=compact&hide_border=true" alt="LilArtDev :: overall Top Langs">
         </a>
       </p>
       <p>
         <a href="https://github.com/1999AZZAR/">
-          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=1999azzar&theme=gruvbox&layout=compact&hide_border=true" alt="1999AZZAR :: Top Langs by repo">
-          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=1999azzar&theme=gruvbox&layout=compact&hide_border=true" alt="1999AZZAR :: Top Langs by commit">
+          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LilArtDev&theme=gruvbox&layout=compact&hide_border=true" alt="LilArtDev :: Top Langs by repo">
+          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LilArtDev&theme=gruvbox&layout=compact&hide_border=true" alt="LilArtDev :: Top Langs by commit">
         </a>
       </p>
     </details>
@@ -35,8 +35,8 @@
       <summary><h3>Statistics</h3></summary>
       <p>
         <a href="https://github.com/1999AZZAR/">
-          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=1999AZZAR&show_icons=true&theme=gruvbox&hide_border=true">
-          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=1999AZZAR&theme=gruvbox&hide_border=true">
+          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=LilArtDev&show_icons=true&theme=gruvbox&hide_border=true">
+          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=LilArtDev&theme=gruvbox&hide_border=true">
         </a>
       </p>
     </details>
@@ -44,7 +44,7 @@
 </details>
 
 <div align="center">
-  <a href="https://1999azzar.github.io/1999AZZAR/">
+  <a href="https://1999azzar.github.io/LilArtDev/">
     <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg" alt="snake">
   </a>
 </div>
